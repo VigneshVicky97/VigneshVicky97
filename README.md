@@ -1,14 +1,14 @@
-- Hi, I’m Vignesh_S                                                                                                                           Github_ID : @VigneshVicky97
+Hi, I’m Vignesh_S
 
-- I’m interested in learning latest technology and it’s fundamental basics.
+I’m interested in learning latest technology and it’s fundamental basics.
 
-- I’m currently learning 
-   BLE
-   BLE Mesh
-   Open Thread
-   Wi-Fi Mesh
-   MQTT 
-   MODBUS
+I’m currently learning 
+   BLE,
+   BLE Mesh,
+   Open Thread,
+   Wi-Fi Mesh,
+   MQTT ,
+   MODBUS,
    RISC-V
 
 <!---
